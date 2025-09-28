@@ -1,0 +1,9 @@
+# Core to run the notebook
+jupyter
+ipykernel
+python-dotenv
+
+# Your notebook's libraries
+langchain-openai
+langchain-core
+openai>=1.30.0
